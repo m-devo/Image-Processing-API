@@ -3,7 +3,7 @@
 
 ## Description
 
-This project aims to give you a real-world scenario in which you would read and write to your disk via a Node.js express server rather than a database. The project you create serves two purposes: to prepare you for setting up scalable code and architecture for real-world projects and tie together some of the most popular middleware and utilities found in Node.js projects. This project barely touches the surface of what is possible but will prove your ability to use what you’ve learned in real-world scenarios."
+- This project aims to give you a real-world scenario in which you would read and write to your disk via a Node.js express server rather than a database. The project you create serves two purposes: to prepare you for setting up scalable code and architecture for real-world projects and tie together some of the most popular middleware and utilities found in Node.js projects. This project barely touches the surface of what is possible but will prove your ability to use what you’ve learned in real-world scenarios."
 
 ## what is used
 -Javascript
@@ -22,7 +22,7 @@ This project aims to give you a real-world scenario in which you would read and 
 - Nodejs Documentation [https://nodejs.org/dist/latest-v10.x/docs/api/fs.html]
  
 ## Server 
-The server will work on port 3000 [http://localhost:3000/]
+- The server will work on port 3000 [http://localhost:3000/]
 
 ## Available images 
 - (encenadaport, fjord, icelandwaterfall, palmtunnel, santamonica)
